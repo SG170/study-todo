@@ -25,13 +25,6 @@ Designed with a **lavender theme** 🌸 and **study vibes** 📖✏️💻, this
 
 ---
 
-## 📷 Demo Preview
-
-![screenshot]("C:\Users\Swati\Pictures\Screenshots\Screenshot 2025-09-03 115726.png")
-
-*(Replace with actual screenshot of your app once deployed!)*
-
----
 
 ## 🛠️ Setup & Run Locally
 
@@ -65,13 +58,6 @@ Designed with a **lavender theme** 🌸 and **study vibes** 📖✏️💻, this
 
 ---
 
-## 📷 Demo Preview
-
-![screenshot](https://via.placeholder.com/800x400.png?text=Lavender+Study+To-Do+App+Preview)
-
-*(Replace with actual screenshot of your app once deployed!)*
-
----
 
 ## 🛠️ Setup & Run Locally
 
